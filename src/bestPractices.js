@@ -5,6 +5,7 @@
  */
 
 module.exports = {
+
     globals: function () {
         let myObject = {
             name: 'Jory'
